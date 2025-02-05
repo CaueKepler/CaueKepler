@@ -1,4 +1,4 @@
-## 👩‍💻 Olá, Eu sou Cauê Kepler 👋
+## 👩‍💻 Olá, me chamo Cauê Kepler 👋
 
 **`Desenvolvedor de Software`**
 
