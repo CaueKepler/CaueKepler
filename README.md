@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de Software`**
 
-Me chamo Cauê Kepler, tenho 23 anos e sou natural de Santa Catarina. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Sou apaixonado por técnologia e faço cursos semanalmente, sempre compartilhando em meus repositórios e no Linkedin.
+Me chamo Cauê Kepler, tenho 24 anos e sou natural de Santa Catarina. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Sou apaixonado por técnologia e faço cursos semanalmente, sempre compartilhando em meus repositórios e no Linkedin.
 
 #
 
