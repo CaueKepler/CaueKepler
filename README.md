@@ -18,7 +18,7 @@ Sou natural de Santa Catarina e trabalho com análise de dados, dashboards e Bus
 
 ### 📊 Dados & BI
 
-<img align="left" alt="Power BI" title="Power BI" width="30px" style="padding-right: 10px;" src="https://cdn.simpleicons.org/powerbi/F2C811" />
+<img align="left" alt="Power BI" title="Power BI" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" />
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Pandas" title="Pandas" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
